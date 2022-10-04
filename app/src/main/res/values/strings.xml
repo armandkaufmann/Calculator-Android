@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="txtDefaultValue">0</string>
+    <string name="txtClear">C</string>
+    <string name="txtNegPos">+/-</string>
+    <string name="txtDecimal">.</string>
+    <string name="txtRemoveDigit">DEL</string>
+    <string name="txtCalculate">=</string>
+    <string name="txtDivision">÷</string>
+    <string name="txtMultiplication">×</string>
+    <string name="txtAddition">+</string>
+    <string name="txtSubtraction">-</string>
+    <string name="txtNum1">1</string>
+    <string name="txtNum2">2</string>
+    <string name="txtNum3">3</string>
+    <string name="txtNum4">4</string>
+    <string name="txtNum5">5</string>
+    <string name="txtNum6">6</string>
+    <string name="txtNum7">7</string>
+    <string name="txtNum8">8</string>
+    <string name="txtNum9">9</string>
+    <string name="txtNum0">0</string>
+    <string name="NotANumber">NaN</string>
+    <string name="maxNum">MAX</string>
+</resources>
